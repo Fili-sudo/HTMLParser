@@ -4,7 +4,7 @@ namespace HTMLParser.Tests
 {
     public class ArrayDecoratorTests
     {
-        [Fact]
+        [Fact(Skip = "temporary debug test")]
         public void DebugTest()
         {
             var instanceToTest = new ArrayClass() { IntegerArray = new int[] { 1, 2, 3 } };
