@@ -1,0 +1,11 @@
+C:\Users\david.filimon\Playground\mentorship_tasks\HTMLParser\bin\Debug\net8.0\HTMLParser.deps.json
+C:\Users\david.filimon\Playground\mentorship_tasks\HTMLParser\bin\Debug\net8.0\HTMLParser.dll
+C:\Users\david.filimon\Playground\mentorship_tasks\HTMLParser\bin\Debug\net8.0\HTMLParser.pdb
+C:\Users\david.filimon\Playground\mentorship_tasks\HTMLParser\obj\Debug\net8.0\HTMLParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.filimon\Playground\mentorship_tasks\HTMLParser\obj\Debug\net8.0\HTMLParser.AssemblyInfoInputs.cache
+C:\Users\david.filimon\Playground\mentorship_tasks\HTMLParser\obj\Debug\net8.0\HTMLParser.AssemblyInfo.cs
+C:\Users\david.filimon\Playground\mentorship_tasks\HTMLParser\obj\Debug\net8.0\HTMLParser.csproj.CoreCompileInputs.cache
+C:\Users\david.filimon\Playground\mentorship_tasks\HTMLParser\obj\Debug\net8.0\HTMLParser.dll
+C:\Users\david.filimon\Playground\mentorship_tasks\HTMLParser\obj\Debug\net8.0\refint\HTMLParser.dll
+C:\Users\david.filimon\Playground\mentorship_tasks\HTMLParser\obj\Debug\net8.0\HTMLParser.pdb
+C:\Users\david.filimon\Playground\mentorship_tasks\HTMLParser\obj\Debug\net8.0\ref\HTMLParser.dll
